@@ -1,0 +1,9 @@
+# Archivos de Claves Secretas y Configuración Local
+firebase_key.json
+.env
+
+# Archivos de caché y compilación de Python (siempre ignorar)
+__pycache__/
+*.pyc
+*.log
+.DS_Store
